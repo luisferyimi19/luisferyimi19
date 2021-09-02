@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Luis Dávila
 - 👀 I’m a Software Developer
 - 🌱 I’m currently learning React.
-- 💞️ Some of the programming languages it handles are: Python, Ruby, JavaScript and C++.
+- 💞️ Programming languages that I use: Python, Ruby, JavaScript and C++.
 
-
-Software developer with extensive knowledge from technical support, telecommunications, design and Web development. 
-More than 4 years developing form independent and teaching classes of my knowledge technicians.
+- About me: 
+  I am a Guatemalan software developer with extensive knowledge in software development for international companies, telecommunications, technical support, web design.
+  More than 2 years teaching good practices in web development, telecommunications and computer equipment repair.
